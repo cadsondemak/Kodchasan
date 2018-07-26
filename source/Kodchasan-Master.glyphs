@@ -1,6 +1,6 @@
 {
 .appVersion = "1141";
-copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
+copyright = "Copyright (c) 2018, Cadson Demak (info@cadsondemak.com)";
 customParameters = (
 {
 name = vendorID;
@@ -122,6 +122,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -168,6 +172,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -207,6 +215,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -253,6 +265,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -301,6 +317,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -342,6 +362,10 @@ value = 1220;
 {
 name = winDescent;
 value = 540;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
 }
 );
 descender = -250;
@@ -22780,7 +22804,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2018-07-24 16:41:14 +0000";
+lastChange = "2018-07-26 15:44:40 +0000";
 layers = (
 {
 anchors = (
@@ -22980,7 +23004,7 @@ position = "{432, 350}";
 },
 {
 name = ogonek;
-position = "{691, 10}";
+position = "{411, 10}";
 },
 {
 name = top;
@@ -23042,7 +23066,7 @@ position = "{437, 350}";
 },
 {
 name = ogonek;
-position = "{696, 10}";
+position = "{410, 10}";
 },
 {
 name = top;
@@ -23104,7 +23128,7 @@ position = "{457, 350}";
 },
 {
 name = ogonek;
-position = "{716, 10}";
+position = "{412, 10}";
 },
 {
 name = top;
